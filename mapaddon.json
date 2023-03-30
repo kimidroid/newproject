@@ -2,15 +2,15 @@
   "Ads":
   [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_natives":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-7492894468740102/6401155534",
+      "main_ads_intertitial":"ca-app-pub-7492894468740102/9490902049",
+      "main_ads_natives":"ca-app-pub-7492894468740102/7825917843",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"ecdd7bb3f94b1cc6",
+      "backup_ads_intertitial":"1cbf7f1da86d6b6b",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
@@ -194,43 +194,71 @@
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
+      "name_map":"Roblox Noob Boss Battle",
+      "map_url":"https://archive.org/download/MAPS-BARU/Roblox_Noob_Boss_Battle.zip",
+      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "des_map":"https://kimidroid.github.io/datahtml/RobloxianNoob.html"
+    },
+	{
+      "id":2,
+      "name_map":"Lucky Blocks Race v3.5",
+      "map_url":"https://archive.org/download/MAPS-BARU/Lucky%20Blocks%20Race%20v3.5.zip",
+      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "des_map":"https://kimidroid.github.io/datahtml/luckyblocks.html"
+    },
+	{
+      "id":3,
+      "name_map":"Sky Wars V1",
+      "map_url":"https://archive.org/download/MAPS-BARU/SkyWarsV1.zip",
+      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "des_map":"https://kimidroid.github.io/datahtml/skywarsv1.html"
+    },
+	{
+      "id":4,
+      "name_map":"Zombie slayerv1,2",
+      "map_url":"https://archive.org/download/MAPS-BARU/MAP-BARU/zombie%20slayer%201%2C2.zip",
+      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "des_map":"https://kimidroid.github.io/datahtml/zombieslayerv1,2.html"
+    },
+    {
+      "id":5,
       "name_map":"Bedrock Auto Chicken",
       "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
-      "id":2,
+      "id":6,
       "name_map":"Among Us Map",
       "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
-      "id":3,
+      "id":7,
       "name_map":"Cubical's Tower",
       "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
-      "id":4,
+      "id":8,
       "name_map":"Achievement World",
       "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
-      "id":5,
+      "id":9,
       "name_map":"HardCoreLine",
       "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
-      "id":6,
+      "id":10,
       "name_map":"Hello Neighbor",
       "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
