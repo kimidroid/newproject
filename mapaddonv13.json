@@ -31,12 +31,7 @@
 
   "More":
   [
-    {
-      "id":1,
-      "title":"MORE APP",
-      "image":"file:///android_asset/play.png",
-      "link":"https://play.google.com/store/apps/developer?id=Kimidroid"
-    }
+
   ],
    "Skin":
   [
@@ -47,72 +42,72 @@
     {
       "id":1,
       "name_add":"Laser Guns",
-      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Laserguns-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":2,
       "name_add":"Number Blocks",
-      "add_url":"https://drive.google.com/uc?export=download&id=1Pl2bVzYG-FGFQmZlOI3TFAQAXhZ7BMxf",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/blocks.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/blocks-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":3,
       "name_add":"The Imposter",
-      "add_url":"https://drive.google.com/uc?export=download&id=1DXKGgqBrDGh3p8UOoPXLJ8SubVO1VKzi",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Imposter-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":4,
       "name_add":"Uncrafting Table",
-      "add_url":"https://drive.google.com/uc?export=download&id=1Xssku2yM2ugYSt6p_NDzKdO8kU5wbuzD",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/Uncraftingtable-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":5,
       "name_add":"Furniture",
-      "add_url":"https://drive.google.com/uc?export=download&id=1LfLmuRVtiU7o17bC8LnQCUeLHWAjovEp",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/furniture.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/furniture-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":6,
       "name_add":"Guns",
-      "add_url":"https://drive.google.com/uc?export=download&id=1eRVLTTqdWku4Xv5VP8MSDW7c5JsgM3tx",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/guns.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/guns-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/guns-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":7,
       "name_add":"Dynamite Projectile",
-      "add_url":"https://drive.google.com/uc?export=download&id=1UgGVtXDPnklNhEEkJcmLe-89wNzisp86",
-      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "add_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-B.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/dynamite-R.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     },
     {
       "id":8,
       "name_add":"Actual Guns",
-      "add_url":"https://drive.google.com/uc?export=download&id=1jDfCupWceTsmlrpJT8Yg89RxjJxx_pJP",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "add_url":"https://archive.org/download/actual-gun_202010/addon/ActualGun.zip",
+      "addB_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunB.mcpack",
+      "addR_url":"https://archive.org/download/add-on-kimidroid/addon/ActualGunR.mcpack",
       "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     }
@@ -122,71 +117,43 @@
     {
       "id":1,
       "name_map":"Bedrock Auto Chicken",
-      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Bedrock.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
       "id":2,
       "name_map":"Among Us Map",
-      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Among-us-Map.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
       "id":3,
       "name_map":"Cubicals Tower",
-      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/Cubicalstower.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
       "id":4,
       "name_map":"Achievement World",
-      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/achievementworld.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
       "id":5,
       "name_map":"HardCoreLine",
-      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hardcoreline.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
     {
       "id":6,
       "name_map":"Hello Neighbor",
-      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
+      "map_url":"https://archive.org/download/maps-kimidroid/maps/hello-neighbour.zip",
       "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-	{
-      "id":7,
-      "name_map":"Roblox Noob Boss Battle",
-      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
-      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-	{
-      "id":8,
-      "name_map":"Lucky Blocks Race",
-      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
-      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-	{
-      "id":9,
-      "name_map":"Sky Wars",
-      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
-      "view_map":"https://kimidroid.github.io/image/skywars.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-	{
-      "id":10,
-      "name_map":"Zombie slayer",
-      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
-      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
       "des_map":"https://plus62852.github.io/File/maps.html"
     }
   ]
