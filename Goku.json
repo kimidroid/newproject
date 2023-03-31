@@ -345,11 +345,29 @@
   [
     {
       "id":1,
-      "name_add":"Laser Guns",
-      "add_url":"https://drive.google.com/uc?export=download&id=1Xs64tC8LBv3SjBaSlgQkwzJ1f8FgM7CW",
-      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
-      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
-      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "name_add":"DragonBlock",
+      "add_url":"https://drive.google.com/uc?export=download&id=1VeVUCSa8w3gUO-mHR439qzC4DkKb7xkk",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1qn_E3yP8ecGpqUGCj0bOD6vy0fpFymGC",
+      "addR_url":"https://drive.google.com/uc?export=download&id=13EzQaqSQF9Ms1aWSLLXGDfvQGOzd3a_5",
+      "view_add":"https://kimidroid.github.io/image/DragonBlock.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+	{
+      "id":2,
+      "name_add":"Goku addon1",
+      "add_url":"https://drive.google.com/uc?export=download&id=1lzuoqXmUwdKXACq1WJUUNMyyBiginbTM",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Blm7NQj6p9PPsHpHkKhHqHGJFFyZbIEg",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1WcIxd0V8Kskdv7tmZdCE6lZtnTwQ3g8z",
+      "view_add":"https://kimidroid.github.io/image/gokuaddon1.png",
+      "des_add":"https://plus62852.github.io/File/addon.html"
+    },
+	{
+      "id":3,
+      "name_add":"Goku addon2",
+      "add_url":"https://drive.google.com/uc?export=download&id=1_qxiE8YEgY89KzXGAlvgTE1VseXdB-Rp",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1MSBQjACPmzFSUsZbp8OlhsDbXRmCUu8E",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1mrfeT_wu3at0W2YCXti-fFxE747kgtQA",
+      "view_add":"https://kimidroid.github.io/image/gokuaddon2.png",
       "des_add":"https://plus62852.github.io/File/addon.html"
     }
   ],
