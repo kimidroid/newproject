@@ -1082,173 +1082,257 @@
   ],
   "Maps":
   [
-    {
-      "id":1,
-      "name_map":"Bedrock Auto Chicken",
-      "map_url":"https://drive.google.com/uc?export=download&id=1-da954-agDVXUuoPO_9ekAUGvKHAPeHo",
-      "view_map":"https://plus62852.github.io/File/img-maps/badrok-min.png",
+	{
+      "id":00,
+      "name_map":"Jurassic World",
+      "map_url":"https://mcpedl.org/uploads_files/16-06-2020/jurassicworld.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/08/bridges-jurassic-world-800x533-c-default.jpg",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
-    {
-      "id":2,
+	{
+      "id":00,
+      "name_map":"Mob Arena Map",
+      "map_url":"https://mcpedl.org/uploads_files/28-11-2023/mob-battle.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/11/mob-arena-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Ancient Church",
+      "map_url":"https://mcpedl.org/uploads_files/27-11-2023/ancient-church.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/11/ancient-church-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Town Map",
+      "map_url":"https://mcpedl.org/uploads_files/16-06-2020/AvengersTower.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/08/town-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"FNAF Map",
+      "map_url":"https://mcpedl.org/uploads_files/27-11-2023/fnaf-2020.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/07/fnaf-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Hogwarts Map",
+      "map_url":"https://mcpedl.org/uploads_files/13-06-2020/Hogwarts.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/07/hogwarts-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"School Map",
+      "map_url":"https://mcpedl.org/uploads_files/03-06-2020/RainbowHighschool.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/06/school-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Snow City Resort",
+      "map_url":"https://mcpedl.org/uploads_files/23-11-2023/city-snow-resort.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/11/snow-city-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Moon Map",
+      "map_url":"https://mcpedl.org/uploads_files/20-11-2023/moon-mission.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/11/moon-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Story Mode Map",
+      "map_url":"https://mcpedl.org/uploads_files/27-03-2023/kit-pvp-story-mode.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/03/story-mode-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Sonic Map",
+      "map_url":"https://mcpedl.org/uploads_files/16-06-2023/sonic-hedgehog.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/06/sonic-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Resident Evil Map",
+      "map_url":"https://mcpedl.org/uploads_files/04-07-2023/resident-evil.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/07/resident-evil-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Star Wars Maps",
+      "map_url":"https://mcpedl.org/uploads_files/20-08-2023/the-battle-of-crait.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/06/star-wars-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Bank Robbery Map",
+      "map_url":"https://mcpedl.org/uploads_files/09-09-2023/rob-the-bank.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/09/bank-robbery-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Apex Legends Map",
+      "map_url":"https://mcpedl.org/uploads_files/02-10-2023/apex-legends.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/10/apex-legends-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Trial Chamber Map",
+      "map_url":"https://mcpedl.org/uploads_files/25-10-2023/trial-chamber.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/10/trial-chamber-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Lab Escape Map",
+      "map_url":"https://mcpedl.org/uploads_files/30-10-2023/infected-lab.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/10/lab-escape-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Labyrinth Map",
+      "map_url":"https://mcpedl.org/uploads_files/12-11-2023/the-most-difficult-labyrinth.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/11/picture-mcpedl-14552-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Dream SMP Map",
+      "map_url":"https://mcpedl.org/uploads_files/14-03-2022/dream-smp.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/02/dream-smp-map-minecraft-pe-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Diversity Map",
+      "map_url":"https://mcpedl.org/uploads_files/20-02-2022/diversity-map.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/02/diversity-map-minecraft-pe-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Avatar Map",
+      "map_url":"https://mcpedl.org/uploads_files/20-02-2022/avatar-arena.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/02/avatar-map-minecraft-pe-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Toy Story Map",
+      "map_url":"https://mcpedl.org/uploads_files/21-02-2022/new-home.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/02/toy-story-maps-minecraft-pe-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Zoo Map",
+      "map_url":"https://mcpedl.org/uploads_files/21-02-2022/zoo.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/02/zoo-maps-minecraft-pe-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Buried Treasure Map",
+      "map_url":"https://mcpedl.org/uploads_files/29-08-2022/museum-treasure.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/08/buried-treasure-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Pokemon Map",
+      "map_url":"https://mcpedl.org/uploads_files/29-08-2022/pokecraft.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/08/pokemon-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Ocean Explorer Map",
+      "map_url":"https://mcpedl.org/uploads_files/29-08-2022/ocean-exporer.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2022/08/ocean-explorer-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
+      "name_map":"Wild West Map",
+      "map_url":"https://mcpedl.org/uploads_files/15-02-2023/western-cowboy-map.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/02/wild-west-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
+    },
+	{
+      "id":00,
       "name_map":"Among Us Map",
-      "map_url":"https://drive.google.com/uc?export=download&id=1ssYFF4aRCETAYm6kdhjmqKT5zzSCXxjZ",
-      "view_map":"https://plus62852.github.io/File/img-maps/among-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":3,
-      "name_map":"Cubicals Tower",
-      "map_url":"https://drive.google.com/uc?export=download&id=1_hIe5TYZg70Xc9ImFzf0jAYy65qZ5nUz",
-      "view_map":"https://plus62852.github.io/File/img-maps/Cubical-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":4,
-      "name_map":"Achievement World",
-      "map_url":"https://drive.google.com/uc?export=download&id=1HNQf2wjq4te1uxv1plZKAfpdZzwq4cgF",
-      "view_map":"https://plus62852.github.io/File/img-maps/Achievement-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":5,
-      "name_map":"HardCoreLine",
-      "map_url":"https://drive.google.com/uc?export=download&id=18rODG2qnB1agALbDPKwq9ATHRC4uFu3r",
-      "view_map":"https://plus62852.github.io/File/img-maps/HardCoreLine-min.png",
-      "des_map":"https://plus62852.github.io/File/maps.html"
-    },
-    {
-      "id":6,
-      "name_map":"Hello Neighbor",
-      "map_url":"https://drive.google.com/uc?export=download&id=1Qsl5IxNMMFLgjwlOLmc4TradMSOEp-37",
-      "view_map":"https://plus62852.github.io/File/img-maps/Neighbor-min.png",
+      "map_url":"https://mcpedl.org/uploads_files/04-11-2020/AmongUsmap.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2020/11/fotopreview1-200x200-c-default.webp",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":7,
-      "name_map":"Roblox Noob Boss Battle",
-      "map_url":"https://drive.google.com/uc?export=download&id=18mQxEu-o0J4mqGJ9f3Q-fuQ_CujTiC8h",
-      "view_map":"https://kimidroid.github.io/image/robloxian-noob.png",
+      "id":00,
+      "name_map":"Crazy Craft Custom Terrain",
+      "map_url":"https://mcpedl.org/uploads_files/13-01-2021/craze-craft.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2021/01/fotopreview-2-200x200-c-default.webp",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":8,
-      "name_map":"Lucky Blocks Race",
-      "map_url":"https://drive.google.com/uc?export=download&id=1JtsyAU5N0RvQsIKlsWp2Ot4Kv6U3XdsI",
-      "view_map":"https://kimidroid.github.io/image/luckyblocks.png",
+      "id":00,
+      "name_map":"Roleplay Map",
+      "map_url":"https://mcpedl.org/uploads_files/14-01-2021/The-relic-of-Riverwood.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2021/01/fotopreview-16-200x200-c-default.webp",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":9,
-      "name_map":"Sky Wars",
-      "map_url":"https://drive.google.com/uc?export=download&id=1rU9raZRF7WI4XPNn2ZLhySAFTAZzd4wv",
-      "view_map":"https://kimidroid.github.io/image/skywars.png",
+      "id":00,
+      "name_map":"Gravity Falls Map",
+      "map_url":"https://mcpedl.org/uploads_files/19-07-2021/gravity-falls.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2021/07/gravity-falls-1-200x200-c-default.webp",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":10,
-      "name_map":"Zombie slayer",
-      "map_url":"https://drive.google.com/uc?export=download&id=1zO0eKWYpxXKrsVI8ATTnlTUbcV34EuL9",
-      "view_map":"https://kimidroid.github.io/image/zombslayer.png",
+      "id":00,
+      "name_map":"Ship Map",
+      "map_url":"https://mcpedl.org/uploads_files/30-08-2023/ocean-dream.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/08/ship-map-200x200-c-default.webp",
       "des_map":"https://plus62852.github.io/File/maps.html"
     },
-	    {
-      "id":11,
-      "name_map":"OneBlock Maps",
-      "map_url":"https://archive.org/download/asepudindev/1block.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/1block/1block.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/1block/ic.html"
+	{
+      "id":00,
+      "name_map":"Photo Zone Map",
+      "map_url":"https://mcpedl.org/uploads_files/27-09-2023/photo-zone.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/09/photo-zone-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":12,
-      "name_map":"Dream Maps",
-      "map_url":"https://archive.org/download/asepudindev/2dream.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/2dream.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/2dream/ic.html"
+      "id":00,
+      "name_map":"Mob Battle Map",
+      "map_url":"https://mcpedl.org/uploads_files/29-09-2023/mob-battle-arena.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/09/mob-battle-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":13,
-      "name_map":"StoneFactory Maps",
-      "map_url":"https://archive.org/download/asepudindev/3stonefactory.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/3stonefactory/3stonefactory.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/3stonefactory/ic.html"
+      "id":00,
+      "name_map":"Batman House Map",
+      "map_url":"https://mcpedl.org/uploads_files/15-10-2023/batman-house.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/10/batman-house-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
     },
 	{
-      "id":14,
-      "name_map":"LukyBlock Maps",
-      "map_url":"https://archive.org/download/asepudindev/4lukyblock.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/4lukyblock/4lukyblock.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/4lukyblock/ic.html"
-    },
-	{
-      "id":15,
-      "name_map":"ZombieGun Maps",
-      "map_url":"https://archive.org/download/asepudindev/5zombiegun.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/5zombiegun/5zombiegun.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/5zombiegun/ic.html"
-    },
-	{
-      "id":16,
-      "name_map":"ScpDoom Maps",
-      "map_url":"https://archive.org/download/asepudindev/6scpdoom.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/6scpdoom/6scpdoom.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/6scpdoom/ic.html"
-    },
-	{
-      "id":17,
-      "name_map":"SkyFactory Maps",
-      "map_url":"https://archive.org/download/asepudindev/7skyfactory.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/7skyfactory/7skyfactory.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/7skyfactory/ic.html"
-    },
-	{
-      "id":18,
-      "name_map":"StarkMansion Maps",
-      "map_url":"https://archive.org/download/asepudindev/8starkmansion.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/8starkmansion/8starkmansion.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/8starkmansion/ic.html"
-    },
-	{
-      "id":19,
-      "name_map":"Mansion Maps",
-      "map_url":"https://archive.org/download/asepudindev/9mansion.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/maps/9mansion/9mansion.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/maps/9mansion/ic.html"
-    },
-	{
-      "id":20,
-      "name_map":"City Maps",
-      "map_url":"https://archive.org/download/MapBaru/10citymaps.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/10citymaps/ic.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/10citymaps/ic.html"
-    },
-	{
-      "id":21,
-      "name_map":"Horror Maps",
-      "map_url":"https://archive.org/download/MapBaru/18horrormaps.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/18horrormaps/ic.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/18horrormaps/ic.html"
-    },
-	{
-      "id":22,
-      "name_map":"One Blockskyblock Map",
-      "map_url":"https://archive.org/download/MapBaru/26oneblockskyblock.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/26oneblockskyblock/ic.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/26oneblockskyblock/ic.html"
-    },
-	{
-      "id":23,
-      "name_map":"Pink Mansion Map",
-      "map_url":"https://archive.org/download/MapBaru/27pinkmansion.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/27pinkmansion/ic.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/27pinkmansion/ic.html"
-    },
-		{
-      "id":24,
-      "name_map":"Security Camera Mod",
-      "map_url":"https://archive.org/download/MapBaru/36securitycamera.zip",
-      "view_map":"https://torirastudio.com/data/godev/asepudindev/mod/36securitycamera/ic.png",
-      "des_map":"https://torirastudio.com/data/godev/asepudindev/mod/36securitycamera/ic.html"
+      "id":00,
+      "name_map":"Samurai Village Map",
+      "map_url":"https://mcpedl.org/uploads_files/06-11-2023/samurai-village.mcworld",
+      "view_map":"https://mcpedl.org/wp-content/uploads/2023/11/samurai-village-map-200x200-c-default.webp",
+      "des_map":"https://plus62852.github.io/File/maps.html"
     }
   ]
 }
